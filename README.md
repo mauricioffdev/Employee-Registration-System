@@ -2,7 +2,7 @@
 
 [![GitHub user](https://img.shields.io/badge/GitHub-mauricioffdev-blue?style=flat-square&logo=github)](https://github.com/mauricioffdev)
 
-## 📖 Sobre o Projeto
+## Projeto
 
 Este é um projeto simples em Java, desenvolvido para fins didáticos, que simula o cadastro de funcionários, verifica a unicidade dos IDs e permite o aumento percentual do salário de um funcionário específico.
 
@@ -10,7 +10,7 @@ O código foi inicialmente escrito por mim, baseado em uma aula do curso do **Pr
 
 > **Nota:** Os comentários originais contendo as correções e sugestões de melhoria do Gemini foram mantidos no código-fonte como material de estudo e referência.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 O programa executa as seguintes etapas:
 
@@ -21,13 +21,13 @@ O programa executa as seguintes etapas:
     * Se o ID for encontrado, aplica o aumento ao salário.
 4.  **Listagem Final:** Imprime no console a lista completa dos funcionários, mostrando seus IDs, nomes e salários formatados.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 * **Linguagem:** Java 11+
 * **Estruturas:** `ArrayList`, `List`, `Scanner`
 * **Recursos:** Java Stream API (para busca e validação de ID)
 
-## ⚙️ Como Executar
+## Como Executar
 
 Para rodar este projeto:
 
